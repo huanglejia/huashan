@@ -1,4 +1,8 @@
 hello this is huangshanjianfa
 我是令狐冲，我是天下第一
+<<<<<<< HEAD
 哈哈哈
 我会武功
+=======
+令狐冲，我是岳不群，我已经把你的数据修改了，哈哈
+>>>>>>> 2e1abce... git edit yuebuqun
